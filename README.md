@@ -16,7 +16,6 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-python
 class MuhammadSharjeel:
     def __init__(self):
         self.role = "Robotics & AI Engineer"
@@ -33,10 +32,8 @@ class MuhammadSharjeel:
             "design": ["Photoshop", "Illustrator"]
         }
         
-  def current_mission(self):
-      return "Building intelligent systems that understand and adapt to our world"
-
-
+    def current_mission(self):
+        return "Building intelligent systems that understand and adapt to our world"
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Current Projects
 
 - 🦾 Developing autonomous robotic systems with computer vision capabilities
@@ -117,18 +114,3 @@ class MuhammadSharjeel:
 <div align="center">
   <em>"Coding intelligent machines today, for a smarter tomorrow"</em>
 </div>
-
-```
-                            _____
-                           |     |
-                           | | | |
-                           |_____|
-                       ____ _[_]_ ____
-                      ()___|_______|_()
-                      \ ::::::::::::: /
-                       \::::::::::::/
-                       /|""""""""""|\ 
-                      //| Robotics |\\
-                     // |   &  AI  | \\
-                    ()  |         |  ()
-```
