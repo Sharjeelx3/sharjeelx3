@@ -16,7 +16,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-```python
+python
 class MuhammadSharjeel:
     def __init__(self):
         self.role = "Robotics & AI Engineer"
@@ -33,9 +33,9 @@ class MuhammadSharjeel:
             "design": ["Photoshop", "Illustrator"]
         }
         
-    def current_mission(self):
-        return "Building intelligent systems that understand and adapt to our world"
-```
+  def current_mission(self):
+      return "Building intelligent systems that understand and adapt to our world"
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Current Projects
 
